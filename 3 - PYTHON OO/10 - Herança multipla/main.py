@@ -1,0 +1,15 @@
+from smartphone import Smartphone
+
+smart = Smartphone('Pocophone')
+smart.conectar()
+smart.conectar()
+smart.ligar()
+smart.ligar()
+smart.desligar()
+smart.desligar()
+smart.desligar()
+smart.ligar()
+smart.conectar()
+smart.conectar()
+smart.desconectar()
+smart.desligar()
